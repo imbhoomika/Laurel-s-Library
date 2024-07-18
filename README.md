@@ -1,2 +1,2 @@
 # Laurel-s-Library
-This is an e-commerce site. 
+This is an e-commerce site
